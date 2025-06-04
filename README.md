@@ -1,4 +1,4 @@
-# Bangalore-Traffic-Flow-Prediction-Using-ML
+-- # Bangalore-Traffic-Flow-Prediction-Using-ML
 
 # Bangalore Traffic Flow Prediction using Machine Learning
 
@@ -38,7 +38,7 @@ Make sure you have Python 3.7 or higher installed on your system.
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/bangalore-traffic-prediction.git
+git clone https://github.com/rishavkr206/Bangalore-Traffic-Flow-Prediction-Using-ML.git   
 cd bangalore-traffic-prediction
 ```
 
