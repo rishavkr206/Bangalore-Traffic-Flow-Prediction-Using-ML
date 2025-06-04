@@ -220,17 +220,16 @@ Project Link: [https://github.com/rishavkr206/Bangalore-Traffic-Flow-Prediction-
 
 *Add screenshots of your application here with a brief caption describing each screenshot.*
 
-![Screenshot 2025-02-20 231417](https://github.com/user-attachments/assets/481d2138-a869-4a1a-bca2-223fa6a080ba)  
-*Dashboard Overview*
-
-![Screenshot 2025-02-20 222445](https://github.com/user-attachments/assets/7fe62f0f-d9d7-416c-ba9d-9fe2e3469262)  
-*Model Training Progress*
-
-![Screenshot 2025-02-20 160159](https://github.com/user-attachments/assets/c07f79f9-b463-46a5-b2b3-6a9f2edfdfa9)  
-*Prediction Output*
-
 ![Screenshot 2025-02-20 222913](https://github.com/user-attachments/assets/4ebae578-9364-4984-a835-53e427274af3)  
 *Visual Analytics*
+
+![Screenshot 2025-02-20 222445](https://github.com/user-attachments/assets/7fe62f0f-d9d7-416c-ba9d-9fe2e3469262) 
+*Dashboard Overview*
+
+![Screenshot 2025-02-20 231417](https://github.com/user-attachments/assets/481d2138-a869-4a1a-bca2-223fa6a080ba)  
+*Model Training Progress*
+
+
 
 ## 🔮 Future Enhancements
 
