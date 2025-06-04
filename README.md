@@ -218,7 +218,7 @@ Project Link: [https://github.com/rishavkr206/Bangalore-Traffic-Flow-Prediction-
 
 ## 📱 Screenshots
 
-*Add screenshots of your application here with a brief caption describing each screenshot.*
+
 
 ![Screenshot 2025-02-20 222913](https://github.com/user-attachments/assets/4ebae578-9364-4984-a835-53e427274af3)  
 *Visual Analytics*
@@ -227,7 +227,7 @@ Project Link: [https://github.com/rishavkr206/Bangalore-Traffic-Flow-Prediction-
 *Dashboard Overview*
 
 ![Screenshot 2025-02-20 231417](https://github.com/user-attachments/assets/481d2138-a869-4a1a-bca2-223fa6a080ba)  
-*Model Training Progress*
+*Model Training Progress & outcome*
 
 
 
