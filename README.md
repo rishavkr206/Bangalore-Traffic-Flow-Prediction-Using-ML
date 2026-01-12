@@ -1,7 +1,7 @@
 # Bangalore Traffic Flow Prediction using Machine Learning
 
 A comprehensive machine learning application for predicting traffic flow in Bangalore using LSTM neural networks. This project provides real-time traffic volume predictions based on various environmental and road parameters.
-
+Live link : https://bangalore-traffic-flow-prediction-using-ml-u88qn2ymxje6bs6z3om.streamlit.app/
 ## 🚗 Project Overview
 
 This application uses deep learning techniques to predict traffic volume in different areas of Bangalore. Built with Streamlit for an interactive web interface and TensorFlow for the machine learning backbone, it offers a modern solution for urban traffic prediction.
